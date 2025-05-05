@@ -1,12 +1,12 @@
 def model_A():
-    print("test1")
+    print("do this.")
 
 
 def model_B():
-    print("test2")
+    print("do that.")
 
 def model_C():
-    print("test3")
+    print("do other thing.")
 
 
 model_A()
